@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
 #movie-result {
   background: rgb(244, 98, 181);
   border: 5px solid black;
@@ -19,4 +21,25 @@
 hr {
   height: 5px;
   background-color: black;
+}
+
+h1 {
+  color: blue;
+  border: 1px solid;
+}
+
+body {
+  background-color: orange;
+  color: green;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+button {
+  background-color: lightblue;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+img {
+  border: 3px solid purple;
 }
